@@ -2,7 +2,9 @@
   "extends": "standard",
 
   "rules": {
-  	"no-new": 0
+  	"no-new": 0,
+  	"no-eval": 0,
+  	"no-alert": 0
   },
   "plugins": ["html"]
 }
